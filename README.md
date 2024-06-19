@@ -1,1 +1,1 @@
-# Querying Kafka using Docker Compose
+# Querying Streaming Data in Kafka using KSQL
